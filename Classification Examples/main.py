@@ -50,13 +50,14 @@ kivy.require('1.10.1')
 
 curdir = dirname(__file__)
 print (curdir)
-sourceImageFolder = r'Y:\Project MegaCRACK-RoboCRACK\Real World Data\USCPavCon\Original Set 00 - Mixed\Sorted\Labeled Concrete Crack Wisepl Private Limited'
+sourceImageFolder = r'C:\Users\node11\Desktop\aj classification\Milind Categorize'
 
 key_dict = {
-    'a': 'B4_F_Good',
-    's': 'B4C_B_Good_Pav',
-    'q': 'B4_F_Redo',
-    'w': 'B4C_B_Redo_Pav'
+    'a': 'C:\Users\node11\Desktop\aj classification\No Crack',
+    's': 'C:\Users\node11\Desktop\aj classification\Few Strands',
+    'q': 'C:\Users\node11\Desktop\aj classification\Branched',
+    'w': 'C:\Users\node11\Desktop\aj classification\Surface Cracks',
+    'z': 'C:\Users\node11\Desktop\aj classification\Bad Images'
 }
 
 
